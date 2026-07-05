@@ -5,7 +5,7 @@ from telebot import types
 TOKEN = os.environ.get("TOKEN")
 
 # 👇 твой Telegram ID уже вставлен
-ADMIN_ID = 8349263362
+ADMIN_ID = 8589364445
 
 if not TOKEN:
     raise Exception("TOKEN не задан в Render")
